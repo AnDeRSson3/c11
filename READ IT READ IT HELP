@@ -1,0 +1,6 @@
+I couldn't get the powerups to work since it kept saying
+p5.play.js:2829 Uncaught addImage error: allowed usages are <image> or <label>, <image>
+p5.js:64060 Uncaught TypeError: Cannot read properties of undefined (reading 'touches')
+    at p5._main.default._updateTouchCoords (p5.js:64060:37)
+    at p5._updateNextTouchCoords (p5.play.js:265:10)
+    at p5._onmousedown (p5.play.js:302:8)
